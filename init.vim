@@ -1,2 +1,3 @@
-source ./vimrcs/base.vim
 source ./vimrcs/plugins.vim
+source ./vimrcs/base.vim
+
