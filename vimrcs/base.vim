@@ -12,8 +12,8 @@ set relativenumber
 set ruler
 set cursorline
 set cursorcolumn
-set wildmenu
-set wildmode=longest:list,full
+" set wildmenu
+" set wildmode=longest:list,full
 
 set autoindent
 set cindent
