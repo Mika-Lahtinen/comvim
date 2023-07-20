@@ -1,4 +1,4 @@
-call plug#begin("$VIMRUNTIME/plugged")
+call plug#begin("~/.config/nvim/plugged")
 let g:plug_url_format = 'git@github.com:%s.git'
 Plug 'preservim/nerdtree', { 'on': 'NERDTreeToggle' }
 
